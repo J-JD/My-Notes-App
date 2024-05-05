@@ -1,8 +1,10 @@
+/* This selector is already declared in the file "global_styles.css".
 .container {
     text-align: ceter;
     margin: 0 auto;
     padding: 15px;
 }
+*/
 
 .notes {
     width: 80%;
@@ -17,6 +19,7 @@
     text-align: left;
 }
 
+/* These selectors are already declared in the file "global_styles.css".
 .note-title {
     display: block;
     text-align: left;
@@ -33,6 +36,7 @@
     color: gray;
     font-size: 10pt;
 }
+*/
 
 button {
     width: 100%;
