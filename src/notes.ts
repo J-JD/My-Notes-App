@@ -9,12 +9,12 @@ export interface Note {
 export const NOTES: Note[] = [
     {
         id: 1,
-        title: 'Lorem ipsum',
-        text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        title: 'Episteme',
+        text: 'In philosophy, episteme is knowledge or understanding. The term epistemology (the branch of philosophy concerning knowledge) is derived from episteme.',
     },
     {
         id: 2,
-        title: 'Shakespeare',
-        text: 'To be, or not to be: that is the question',
+        title: 'Eudaimonia',
+        text: 'It is a Greek word literally translating to the state or condition of "good spirit", and which is commonly translated as "happiness" or "welfare". In works of Aristotle, eudaimonia was the term for the highest human good in older Greek tradition.',
     },
 ];
